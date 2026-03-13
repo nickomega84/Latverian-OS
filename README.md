@@ -9,7 +9,7 @@
 To demonstrate architectural flexibility and deep understanding of the library, React and Babel are injected directly via CDN. This allows the application to run entirely strictly locally or on simple static hosting without the need for Node.js, npm, or any build tools.
 
 ## 🔮 Live Preview
-(assets/preview.gif)
+![Latverian OS](assets/preview.gif)
 
 ---
 
