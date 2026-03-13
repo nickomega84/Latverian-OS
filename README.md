@@ -50,6 +50,7 @@ Simply locate and open the `index.html` file in your preferred modern web browse
 │   ├── dr-doom.jpg        				# Target profile image
 │   └── castle-doom.jpg    				# Location documentation
     └── assets/Flag_of_Latveria.svg    	# Icon flag
+    └── assets/preview.gif    	        # Preview gif
 ├── index.html             				# Main semantic structure and React/JSX logic
 ├── style.css              				# Styling, terminal variables, and animations
 └── README.md              				# Project documentation
