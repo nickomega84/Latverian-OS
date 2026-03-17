@@ -29,7 +29,7 @@ Since this project relies on CDN-injected React and pure web technologies, setup
 
 1. **Clone this repository:**
 ```bash
-git clone [https://github.com/nickomega84/latverian-archives.git](https://github.com/nickomega84/latverian-archives.git)
+git clone https://github.com/nickomega84/latverian-archives.git
 ```
 
 2. **Navigate to the project directory:**
